@@ -1,0 +1,118 @@
+Helix
+                                                
+    ─NNNNNNNNNNN─                                             
+     ┊┊┊┊┊┊┊┊┊┊┊                                                                    
+    ─NNNNNNNNNNN─                                                              
+                                               
+Dovetails of different lengths
+                                                                                       
+                                                                                                     
+  ╰───╮│     ╰───╮│      ╰───╮│       ╰───╮│        ╰───╮│                                                                 
+  ──SS╯╰    ──SSS╯╰    ──NNNN╯╰    ──NNNNN╯╰    ──NNNNNN╯╰                                                                   
+    !!        ┊┊┊        ┊┊┊┊        ┊┊┊┊┊        ┊┊┊┊┊┊                                                                   
+  ╮╭SS──    ╮╭SSS──    ╮╭NNNN──    ╮╭NNNNN──    ╮╭NNNNNN──                                                                   
+  │╰───╮    │╰───╮     │╰───╮      │╰───╮       │╰───╮                                                                     
+                                                                                       
+                                                                                       
+ ╰───╮│   ╰───╮│       ╰───╮│         ╰───╮│            ╰───╮│            ╰───╮│                                                                                
+  ──S╯╰     ──╯╰──        ─╯╰S───        ─╯╰SS───          ─╯╰SSS───         ─╯╰NNNN───                                                                                                      
+    !                        !              !!                ┊┊┊               ┊┊┊┊                                                                                                      
+  ╮╭S──     ──╮╭──        ───S╮╭─        ───SS╮╭─          ───SSS╮╭─         ───NNNN╮╭─                                                                                                     
+  │╰───╮      │╰───╮          │╰───╮          │╰───╮             │╰───╮             │╰───╮
+                                                                                       
+                                                                                       
+                                                                                       
+180KLs
+     ╭──────────────╮          ╭──────────────╮                                                           
+     │   ╭──AA────╮ │          │              │                                                          
+    3+NA╮╰NNNNNN─╮╰N+5        3+─NNNNNNNNNNN──+5                                                          
+     │┊ │ ****** │ ┊│    =     │ ┊┊┊┊┊┊┊┊┊┊┊  │                                                          
+    5+N╮╰─NNNNNN╮╰AN+3        5+─NNNNNNNNNNN──+3                                                          
+     │ ╰────AA──╯   │          │              │                                                          
+     ╰──────────────╯          ╰──────────────╯                                                         
+                                                                                                                                                  
+120KLs
+                                                                         
+    N────────╮          ╭NNNNNNN─N                                                           
+    ┊        │          │        ┊                                                           
+    N─NNNNNNN╯          ╰────────N                                                           
+                                                                         
+                                                                         
+                                                                                                                                                  
+UUCG Tetraloop 
+                        
+  3NGC╮   ╭UUN5  
+   ┊  │   │  ┊   
+  5NUU╯   ╰CGN3  
+                    
+                       
+                                                                         
+Mango Aptamers                                                                                                               
+                                                                                                                 
+      3─CACG─AGA─GG─AGA─GG────╮  ╭────GG─AGA─GG─AGA─GCAC─3                                                                                                         
+        ┊┊┊┊                  │  │                  ┊┊┊┊                                                                                                           
+      5─GUGC─GAA─GG─GAC─GG─UGC╯  ╰CGU─GG─CAG─GG─AAG─CGUG─5                                                                                                         
+                                                                                                                 
+      5─GUGC─GAA─GG─GAC─GG─UGC╮  ╭CGU─GG─CAG─GG─AAG─CGUG─5                                                                                                         
+        ┊┊┊┊                  │  │                  ┊┊┊┊                                                                                                           
+      3─CACG─AGA─GG─AGA─GG────╯  ╰────GG─AGA─GG─AGA─GCAC─3                                                                                                         
+                                                                                                                 
+                                                                                                                 
+  iSpinach Aptamers                                                                                                             
+                                                                                                                 
+      3─CUCGGGUGUGAGAUG─AG─UU─GUC─5   5─CUG─UU─GA─GUAGAGUGUGGGCUC─3                                                                                                        
+        ┊ ┊             ┊┊    ┊┊┊       ┊┊┊    ┊┊             ┊ ┊                                                                                                          
+      5─GUGAG──GGUCGGG──UC────CAG─3   3─GAC────CU──GGGCUGG──GAGUG─5                                                                                                        
+                                                                                                                 
+      5─GUGAG──GGUCGGG──UC────CAG─3   3─GAC────CU──GGGCUGG──GAGUG─5                                                                                                        
+        ┊ ┊             ┊┊    ┊┊┊       ┊┊┊    ┊┊             ┊ ┊                                                                                                          
+      3─CUCGGGUGUGAGAUG─AG─UU─GUC─5   5─CUG─UU─GA─GUAGAGUGUGGGCUC─3                                                                                                        
+                                                                                                                 
+                                                                                                                 
+                                                                                                                 
+  MS2                                                                                                                                            
+      3─UGUAC───CC─────╮  ╭─────CC───CAUGU─3                                                                                                                    
+        ┊┊┊┊┊   ┊┊     │  │     ┊┊   ┊┊┊┊┊                                                                                                                      
+      5─ACAUG─A─GG─AUCA╯  ╰ACUA─GG─A─GUACA─5                                                                                                                    
+                                                                                                                                               
+      5─ACAUG─A─GG─AUCA╮  ╭ACUA─GG─A─GUACA─5                                                                                                                                      
+        ┊┊┊┊┊   ┊┊     │  │     ┊┊   ┊┊┊┊┊                                                                                                                                        
+      3─UGUAC───CC─────╯  ╰─────CC───CAUGU─3                                                                                                                                      
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                             
+                                                                                                                                              
+  PP7                                                                                                                                         
+      3─CCGUG───CUUC───────╮  ╭───────CUUC───GUGCC─3                                                                                                                
+        ┊┊┊┊┊   ┊┊┊┊       │  │       ┊┊┊┊   ┊┊┊┊┊                                                                                                                  
+      5─GGCAC─A─GAAG─AUAUGG╯  ╰GGUAUA─GAAG─A─CACGG─5                                                                                                                
+                                                                                                                                              
+      5─GGCAC─A─GAAG─AUAUGG╮  ╭GGUAUA─GAAG─A─CACGG─5                                                                                                                                      
+        ┊┊┊┊┊   ┊┊┊┊       │  │       ┊┊┊┊   ┊┊┊┊┊                                                                                                                                        
+      3─CCGUG───CUUC───────╯  ╰───────CUUC───GUGCC─3                                                                                                                                      
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+  TAR/TAT                                                                                                                                            
+                                                                                                                                         
+      3─CCGAGC───C───UCGA─────╮ ╭─────AGCU───C───CGAGCC─3                                                                                                              
+        ┊┊┊┊┊┊   ┊   ┊┊┊┊     │ │     ┊┊┊┊   ┊   ┊┊┊┊┊┊                                                                                                                
+      5─GGCUCG─U─G─U─AGCU─CAUU╯ ╰UUAC─UCGA─U─G─U─GCUCGG─5                                                                                                              
+                                                                                                                 
+      5─GGCUCG─U─G─U─AGCU─CAUU╮ ╭UUAC─UCGA─U─G─U─GCUCGG─5                                                                                                          
+        ┊┊┊┊┊┊   ┊   ┊┊┊┊     │ │     ┊┊┊┊   ┊   ┊┊┊┊┊┊                                                                                                            
+      3─CCGAGC───C───UCGA─────╯ ╰─────AGCU───C───CGAGCC─3                                                                                                          
+                                                                                                                 
+                                                                                                                 
+  L7Ae Aptamer                                                           
+                                                                                                                                                                         
+      3─CGAGU─AGUGC─GG─5 5─GG─CGUGA─UGAGC─3                                                                                                          
+        ┊┊┊┊        ┊┊     ┊┊        ┊┊┊┊               
+      5─GCUCU──GA───CC─3 3─CC───AG──UCUCG─5              
+                                                  
+      5─GCUCU──GA───CC─3 3─CC───AG──UCUCG─5               
+        ┊┊┊┊        ┊┊     ┊┊        ┊┊┊┊               
+      3─CGAGU─AGUGC─GG─5 5─GG─CGUGA─UGAGC─3                  
+                     
+                         

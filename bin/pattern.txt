@@ -1,0 +1,48 @@
+>9H120
+@ABC123
+
+                                      ╭──AA────╮                                                                                           
+      ╭UUNNNKNNNNN──NN──NNNNKNNNN─NNA╮╰NNNNNN─╮╰NN─NNNKNNNNN──NN──NNN────────╮                                                             
+      │  ┊┊┊┊┊┊┊┊┊  ┊┊  ┊┊┊┊┊┊┊┊┊ ┊┊ │ ****** │ ┊┊ ┊┊┊┊┊┊┊┊┊  ┊┊  ┊┊┊        │                                                             
+      ╰CGNNNKNNNNN╮╭NN──NNNNKNNNN─NN╮╰─NNNNNN╮╰ANN─NNNKNNNNN╮╭NN──NNN─XXXXXXX╯                                                             
+                  ^╰───╮            ╰────AA──╯              ^╰───╮                                                                                                                                                                                                                                           
+                  ╰───╮^              ╭──AA────╮            ╰───╮^                                                                         
+      ╭UUNNNKNNNNN──NN╯╰NNNNKNNNNNN─A╮╰NNNNNN─╮╰─NNNNKNNNNNN──NN╯╰NNNKNNNGC╮                                                               
+      │  ┊┊┊┊┊┊┊┊┊  !!  ┊┊┊┊┊┊┊┊┊┊┊  │ ****** │  ┊┊┊┊┊┊┊┊┊┊┊  !!  ┊┊┊┊┊┊┊  │                                                               
+      ╰CGNNNKNNNNN╮╭NN──NNNNKNNNNNN─╮╰─NNNNNN╮╰A─NNNNKNNNNNN╮╭NN──NNNKNNNUU╯                                                               
+                  ^╰───╮            ╰────AA──╯              ^╰───╮                                                                         
+                  ╰───╮^                       ╭──AA────╮   ╰───╮^                                                                         
+          ╭UUNNNKNNNNN╯╰NNNNKNNNNNN───NNNKNNNA╮╰NNNNNN─╮╰N─NNNNN╯╰NNNNKNNNNNN──NN──NNN────────╮                                            
+          │  ┊┊┊┊┊┊┊┊┊  ┊┊┊┊┊┊┊┊┊┊┊   ┊┊┊┊┊┊┊ │ ****** │ ┊ ┊┊┊┊┊  ┊┊┊┊┊┊┊┊┊┊┊  ┊┊  ┊┊┊        │                                            
+          ╰CGNNNKNNNNN──NNNNKNNNNNN╮╭─NNNKNNN╮╰─NNNNNN╮╰AN─NNNNN──NNNNKNNNNNN╮╭NN──NNN─XXXXXXX╯                                            
+                                   ^╰───╮    ╰────AA──╯                      ^╰───╮                                                        
+                                   ╰───╮^       ╭──AA────╮                   ╰───╮^                                                        
+            ╭UUNNKNNNNKNNKNNNNKNNNN──NN╯╰NNNNNA╮╰NNNNNN─╮╰NNNNNKN──NNNNNKNNNN──NN╯╰NNNKNNNGC╮                                              
+            │  ┊┊┊┊┊┊┊┊┊┊┊┊┊┊┊┊┊┊┊┊  !!  ┊┊┊┊┊ │ ****** │ ┊┊┊┊┊┊┊  ┊┊┊┊┊┊┊┊┊┊  !!  ┊┊┊┊┊┊┊  │                                              
+            ╰CGNNKNNNNKNNKNNNNKNNNN╮╭NN──NNNNN╮╰─NNNNNN╮╰ANNNNNKN──NNNNNKNNNN╮╭NN──NNNKNNNUU╯                                              
+                                   ^╰───╮     ╰────AA──╯                     ^╰───╮                                                                                              
+                                   ╰───╮^         ╭──AA────╮                 ╰───╮^                                                        
+ ╭XXXXXXX─NNNKNNNNNNKNNNNN──NNNNNNKNNNN╯╰NNNNNNNA╮╰NNNNNN─╮╰N──NNNNN──NNNNKNNNNNN╯╰NNNKNNNNNKNNNNNN────────╮                               
+ │        ┊┊┊┊┊┊┊┊┊┊┊┊┊┊┊┊  ┊┊┊┊┊┊┊┊┊┊┊  ┊┊┊┊┊┊┊ │ ****** │ ┊  ┊┊┊┊┊  ┊┊┊┊┊┊┊┊┊┊┊  ┊┊┊┊┊┊┊┊┊┊┊┊┊┊┊┊        │                               
+ ╰────────NNNKNNNNNNKNNNNN╮╭NNNNNNKNNNN──NNNNNNN╮╰─NNNNNN╮╰AN──NNNNN╮╭NNNNKNNNNNN──NNNKNNNNNKNNNNNN─XXXXXXX╯                               
+                          ^╰───╮                ╰────AA──╯          ^╰───╮                                                                 
+                          ╰───╮^              ╭──AA────╮            ╰───╮^                                                                 
+               ╭UUNNNKNNNN──NN╯╰NNNNNKNNN─NNA╮╰NNNNNN─╮╰NN─NNNKNNNNN──NN╯╰NNNKNNNNKNNKNNNNKNGC╮                                            
+               │  ┊┊┊┊┊┊┊┊  !!  ┊┊┊┊┊┊┊┊┊ ┊┊ │ ****** │ ┊┊ ┊┊┊┊┊┊┊┊┊  !!  ┊┊┊┊┊┊┊┊┊┊┊┊┊┊┊┊┊┊  │                                            
+               ╰CGNNNKNNNN╮╭NN──NNNNNKNNN─NN╮╰─NNNNNN╮╰ANN─NNNKNNNNN╮╭NN──NNNKNNNNKNNKNNNNKNUU╯                                            
+                          ^╰───╮            ╰────AA──╯              ^╰───╮                                                                 
+                          ╰───╮^                       ╭──AA────╮   ╰───╮^                                                                 
+                ╭XXXXXXX─NNNNN╯╰NNNNKNNNNNN───NNNKNNNA╮╰NNNNNN─╮╰N─NNNNN╯╰NNNNNKNNNNN──NNNNNKNGC╮                                          
+                │        ┊┊┊┊┊  ┊┊┊┊┊┊┊┊┊┊┊   ┊┊┊┊┊┊┊ │ ****** │ ┊ ┊┊┊┊┊  ┊┊┊┊┊┊┊┊┊┊┊  ┊┊┊┊┊┊┊  │                                          
+                ╰────────NNNNN──NNNNKNNNNNN╮╭─NNNKNNN╮╰─NNNNNN╮╰AN─NNNNN──NNNNNKNNNNN╮╭NNNNNKNUU╯                                          
+                                           ^╰───╮    ╰────AA──╯                      ^╰───╮                                                
+                                           ╰───╮^              ╭──AA────╮            ╰───╮^                                                
+                               ╭UUNNNNKNNNN──NN╯╰NNNNNKNNN─NNA╮╰NNNNNN─╮╰NN─NNNKNNNNN──NN╯╰NNNKNNNGC╮                                      
+                               │  ┊┊┊┊┊┊┊┊┊  !!  ┊┊┊┊┊┊┊┊┊ ┊┊ │ ****** │ ┊┊ ┊┊┊┊┊┊┊┊┊  !!  ┊┊┊┊┊┊┊  │                                      
+                               ╰CGNNNNKNNNN╮╭NN──NNNNNKNNN─NN╮╰─NNNNNN╮╰ANN─NNNKNNNNN╮╭NN──NNNKNNNUU╯                                      
+                                           ^╰───╮            ╰────AA──╯              ^╰───╮                                                
+                                           ╰───╮^                                    ╰───╮^                                                
+                               ╭XXXXXXX─NNN──NN╯╰NNKNNNNNKNNNKNNN─────CCUUNNKNNNNNKNN──NN╯╰NNNNKNNGC╮                                      
+                               │        ┊┊┊  ┊┊  ┊┊┊┊┊┊┊┊┊┊┊┊┊┊┊┊     ┊┊┊┊┊┊┊┊┊┊┊┊┊┊┊  ┊┊  ┊┊┊┊┊┊┊  │                                      
+                               ╰────────NNN──NN──NNKNNNNNKNNNKNNN3   5GGAANNKNNNNNKNN──NN──NNNNKNNUU╯                                      
+                                                                                                                                           
