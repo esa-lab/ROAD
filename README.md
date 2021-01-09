@@ -15,11 +15,11 @@ The ROAD software package automates the design of RNA nanostructures using the R
 
 When using this software in publications please cite:
 
-[Geary, Grossi, McRae, Rothemund & Andersen; *RNA origami design tools enable cotranscriptional folding of kilobase-sized nanoscaffolds*; Nature Chemistry, 2021, https://bion.au.dk/publications/](https://bion.au.dk/publications/)  
+[Geary, Grossi, McRae, Rothemund & Andersen; *RNA origami design tools enable cotranscriptional folding of kilobase-sized nanoscaffolds*; Nature Chemistry 2021](https://bion.au.dk/publications/)  
 
 ## Installation requirements:
 To run RNAbuild you will need to first install a Perl environment.
 Next, to run Revolvr, you will additionally need to install the ViennaRNA package.
 Finally, you will need a plaintext editor that can copy/paste blocks of fixed-width text (using so-called “block” or “column” mode) such as TextEdit on MacOS, or Notepad++ and Vim on Windows.
 
-This software was written and tested with Perl v5.18.2 for MacOS, and ViennaRNA versions 2.1.9 and 2.4.10. Installation for Perl and ViennaRNA should be a few minutes. Software was tested on a Mid 2012 Macbook Pro  running El Capitan 10.11.6 and a Mid 2015 Macbook Pro running Sierra 10.12.6.
+This software was written and tested with Perl v5.18.2 for MacOS, and ViennaRNA versions 2.1.9 and 2.4.10. Installation for Perl and ViennaRNA should be a few minutes. Software was tested on a Mid 2012 Macbook Pro running El Capitan 10.11.6 and a Mid 2015 Macbook Pro running Sierra 10.12.6.
