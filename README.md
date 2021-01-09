@@ -2,14 +2,14 @@
 
 The ROAD software package automates the design of RNA nanostructures using the RNA origami method and consists of the following main programs:
 
-**RNAbuild** - generates 3D PDB coordinate files from a blueprint .
-**Revolvr** - repeatedly mutates a randomized RNA starting sequence until it folds into a target 2D structure under the ViennaRNA folding model.
-**Batch_revolvr** - runs Revolvr multiple times to create different candidate designs for the same blueprint.
-**RNAvis** - analyzes and animates one potential folding path from a blueprint.
-**flip_trace** - outputs a blueprint in all four possible orientations.
-**trace_analysis** - parses a blueprint and outputs analyses and helpful variants of the blueprint. 
-**trace_pattern** - parses a blueprint and outputs the dot-paren notation for the structure in the blueprint, as well as the sequence constraints. It creates an input for Revolvr.
-**trace** - threads a sequence onto a blueprint. Only used by Revolvr.
+1.	**RNAbuild** - generates 3D PDB coordinate files from a blueprint .
+1.	**Revolvr** - repeatedly mutates a randomized RNA starting sequence until it folds into a target 2D structure under the ViennaRNA folding model.
+1.	**Batch_revolvr** - runs Revolvr multiple times to create different candidate designs for the same blueprint.
+1.	**RNAvis** - analyzes and animates one potential folding path from a blueprint.
+1.	**flip_trace** - outputs a blueprint in all four possible orientations.
+1.	**trace_analysis** - parses a blueprint and outputs analyses and helpful variants of the blueprint. 
+1.	**trace_pattern** - parses a blueprint and outputs the dot-paren notation for the structure in the blueprint, as well as the sequence constraints. It creates an input for Revolvr.
+1.	**trace** - threads a sequence onto a blueprint. Only used by Revolvr.
 
 #########################################
 Installation requirements:
