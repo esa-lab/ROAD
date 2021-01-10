@@ -26,9 +26,11 @@ This software was written and tested with Perl v5.18.2 for MacOS, and ViennaRNA 
 
 ## Video Tutorials
 [Part 1: installation](https://www.youtube.com/watch?v=lvTj_qRppME)
+
 [![Part 1: installation](http://img.youtube.com/vi/lvTj_qRppME/2.jpg)](http://www.youtube.com/watch?v=lvTj_qRppME)
 
 [Part 1: installation](https://www.youtube.com/watch?v=OJKxzXrIhxg)
+
 [![Part 1: installation](http://img.youtube.com/vi/OJKxzXrIhxg/2.jpg)](http://www.youtube.com/watch?v=OJKxzXrIhxg)
 
 
