@@ -25,6 +25,8 @@ Finally, you will need a plaintext editor that can copy/paste blocks of fixed-wi
 
 This software was written and tested with Perl v5.18.2 for MacOS, and ViennaRNA versions 2.1.9 and 2.4.10. Installation for Perl and ViennaRNA should be a few minutes. Software was tested on a Mid 2012 Macbook Pro running El Capitan 10.11.6 and a Mid 2015 Macbook Pro running Sierra 10.12.6.
 
+Have been updated to work with ViennaRNA version 2.6.4. Tested with perl 5.34.0 and Ubuntu 22.04.3 LTS
+
 ## Video Tutorials
 
 [Part 1: installation](https://www.youtube.com/watch?v=OJKxzXrIhxg)

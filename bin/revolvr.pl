@@ -193,7 +193,7 @@ sub fold { #outputs to $fold
 
 		qx(echo $_[0] > seq.txt);
 
-		my $outputs = qx(rnafold --noPS < seq.txt);
+		my $outputs = qx(RNAfold --noPS < seq.txt);
 		my @results = split(' ', $outputs);
 
 		$counter = 0; $fold = "";
@@ -215,7 +215,7 @@ sub distance { #outputs to $distance
 	print $din "$_[1]";
 	close $din;
 
-	my $outputs = qx(rnadistance < dist.txt);
+	my $outputs = qx(RNAdistance < dist.txt);
 	my @results = split(' ', $outputs);
 
 	my $counter = 0; $distance = "";
@@ -2077,7 +2077,7 @@ sub duplex { #outputs to $distance
 			print $duin "$_[1]\n";
 		close $duin;
 
-		$outputs = qx(rnaduplex < KLtest.txt);
+		$outputs = qx(RNAduplex < KLtest.txt);
 		@results = split(' ', $outputs);
 
 		$counter = 0; $KLenergy = "";
@@ -2394,7 +2394,7 @@ sub analyzeKL {
 
 sub export {
 		
-		my $ensemblediversity = qx(rnafold --noPS -p < seq.txt);
+		my $ensemblediversity = qx(RNAfold --noPS -p < seq.txt);
 	   
 		my $ensemblediversity_clean = $ensemblediversity =~ qr/;\s*(.+)$/; ##parse out everything after the semicolon
 		$ensemblediversity=$&;  ##store the regex part back into the variable	
